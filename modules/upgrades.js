@@ -106,7 +106,7 @@ function firstGiga(forced) {
     
     //Save settings
     setPageSetting('FirstGigastation', base);
-    setPageSetting('DeltaGigastation', delta);
+    //setPageSetting('DeltaGigastation', delta);
     
     //Log
     debug("Auto Gigastation: Setting pattern to " + base + "+" + delta, "general", "*rocket");
