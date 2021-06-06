@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AutoTrimps-Ray
+// @name         AutoTrimps-grim
 // @version      6.0.0.0
 // @namespace    https://grimspork.github.io/AutoTrimps
 // @downloadURL  https://grimspork.github.io/AutoTrimps/.user.js
